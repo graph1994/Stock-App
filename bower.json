@@ -1,0 +1,32 @@
+{
+  "name": "stock-app-ui",
+  "version": "1.1.0",
+  "dependencies": {
+    "bootstrap": "latest",
+    "angular": "latest",
+    "angular-route": "latest",
+    "angular-resource": "latest",
+    "angular-ui": "~0.4.0",
+    "angular-bootstrap": "~0.14.3"
+  },
+  "authors": [
+    "Kurt Graff <graff1994@gmail.com>"
+  ],
+  "description": "stock-app",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "stock"
+  ],
+  "license": "MIT",
+  "homepage": "index.html",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ]
+}
