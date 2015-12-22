@@ -19,6 +19,13 @@
 4. Then to run the application type `node server.js`
 5. Finally open a web browser to `localhost:8080`
 
+###Using Zipped Folder
+1. Extract to desired location.
+2. Navigate to the the Stock-App directory in a terminal window.
+3. Run the application with `node server.js`
+4. Open Browser to `localhost:8080`
+ 
+
 ### Use Guide 
 * Just type a common Stock Symbol to the input box and watch the magic happen!
 
