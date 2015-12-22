@@ -14,9 +14,14 @@
 
 ### Using Git
 1. Open a terminal window and navigate to a desired directory. 
-1. Type in `git clone -b master https://github.com/graph1994/Stock-App.git`
-2. Then to run the application type `node server.js`
-3. Finally open a web browser to `localhost:8080`
+2. Type in `git clone -b master https://github.com/graph1994/Stock-App.git`
+3. Change to the projects directory by typing `cd Stock-App` into the terminal.
+4. Then to run the application type `node server.js`
+5. Finally open a web browser to `localhost:8080`
+
+### Use Guide 
+* Just type a common Stock Symbol to the input box and watch the magic happen!
+
 
 ## Technology Used
 * Angularjs(JS Framework)
